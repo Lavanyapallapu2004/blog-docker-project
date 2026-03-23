@@ -16,3 +16,7 @@ docker run -d -p 83:80 blog-app
 ## Access
 
 http://localhost:83
+
+## Output
+
+![App Screenshot](screenshot.png)
